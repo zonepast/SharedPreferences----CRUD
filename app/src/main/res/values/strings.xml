@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences Demo</string>
+    <string name="ID_hint">Enter ID</string>
+    <string name="Name_hint">Enter Name</string>
+    <string name="Save_btn">Save</string>
+    <string name="Select_btn">Select</string>
+    <string name="text_id">Set ID</string>
+    <string name="text_name">Set Name</string>
+    <string name="text_update">Update</string>
+    <string name="text_clear">Clear/Delete</string>
+</resources>
